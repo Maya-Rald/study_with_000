@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7363023196ab8f541b231b866c0f5b1c, type: 3}
+    totalSpriteSurfaceArea: 1218572
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f310c400a4b8747b2bba9b85855e4fc4, type: 3}
+  - {fileID: 21300000, guid: 7f559cc00826c4a649ba63aeb5962ecd, type: 3}
+  - {fileID: 21300000, guid: 4dd53ed0a303f456b8bb1bfa3c443ca5, type: 3}
+  - {fileID: 21300000, guid: 46339271f172143ee8cf0bcc85ecd5f6, type: 3}
+  - {fileID: 21300000, guid: 875c7ed3f2a7243f782fe3e28dabf532, type: 3}
+  - {fileID: 21300000, guid: 83b4b364c60764cedb0af405476ba50e, type: 3}
+  - {fileID: 21300000, guid: f636d97419ccf44dd817ff5302c59be5, type: 3}
+  - {fileID: 21300000, guid: 944b29b4b98d942f393a38e26f3558a3, type: 3}
+  - {fileID: 21300000, guid: 9c10f6452f30840f781bd1a8da59e8e9, type: 3}
+  - {fileID: 21300000, guid: 6f016c16f4a524ff99a9ac7243246c4b, type: 3}
+  - {fileID: 21300000, guid: 8be4a826439df469e804d419f2a7a5d5, type: 3}
+  - {fileID: 21300000, guid: 429943f6a72064d14ac06e7ca4b687cf, type: 3}
+  - {fileID: 21300000, guid: 3491d3a9f8b394bfbb3e6cc84c0009a2, type: 3}
+  - {fileID: 21300000, guid: c06b43c93abbc4a68a5d9e7cd0647815, type: 3}
+  - {fileID: 21300000, guid: 6e35304ae07c141d286e74c2382b1668, type: 3}
+  - {fileID: 21300000, guid: dc97c9ba2b5ed461fbe6adf5024635dc, type: 3}
+  - {fileID: 21300000, guid: 6c8a3adaa92c64185b6ed5c3aa7f5083, type: 3}
+  - {fileID: 21300000, guid: 2ad87c3d6f7f7425eaadd17db5feb1e1, type: 3}
+  - {fileID: 21300000, guid: c367860f3615245959f8a9624f71489c, type: 3}
+  - {fileID: 21300000, guid: 0ca8fe6f72abf4d9fa721ea2ff9b1ce3, type: 3}
+  - {fileID: 21300000, guid: cfb562bf4bee148adb8d4676de07d7c1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - hr_murderer_front
+  - hr_bear_big
+  - hr_bear
+  - n_wwDoor
+  - hr_murderer
+  - hr_murderer_side3
+  - hr_murderer_side1
+  - n_wDoor_closed
+  - hr_gate
+  - hr_bbDoor_halfOpen
+  - hr_gate_open
+  - hr_murderer_back
+  - hr_bbDoors
+  - hr_bbDoor_open
+  - n_wwDoor_opened
+  - hr_gate_halfOpen
+  - n_bear
+  - hr_bDoor_closed
+  - hr_murderer_side2
+  - hr_gate_closed
+  - hr_murderer_front2
+  m_RenderDataMap: {}
+  m_Tag: SpriteAtlas
+  m_IsVariant: 0
